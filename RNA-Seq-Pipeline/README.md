@@ -10,7 +10,7 @@ used in the analysis performed during my research and manuscript preparation.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 - **Sample Type:** COVID-19 patients’ *nasopharyngeal/nasal swab* samples  
 - **Platform:** Illumina RNA-Seq  
@@ -18,15 +18,7 @@ used in the analysis performed during my research and manuscript preparation.
 - **Objective:** Identify differentially expressed genes and immune-related
   pathways activated in COVID-19 infection  
 - **Tools Used:** FastQC, STAR, FeatureCounts, Samtools, DESeq2, ggplot2, Python  
-- **Output:** Quality reports, aligned BAM files, gene count matrix, DEGs,
-  volcano/MA plots
+- **Output:** Quality reports, aligned BAM files, gene count matrix
 
----
 
-## 🧬 Full Pipeline Scripts
-
-This folder includes the exact scripts used in the pipeline:
-
-### **1. 01_fastqc.sh**
-Quality control of raw FASTQ files.
 
